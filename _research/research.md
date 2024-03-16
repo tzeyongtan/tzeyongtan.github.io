@@ -1,8 +1,7 @@
 ---
 title: Research
-author_profile: true
-  
-permalink: /research/
+collection: research
+permalink: /research
 ---
 
 [LEAVE BLANK FOR NOW]

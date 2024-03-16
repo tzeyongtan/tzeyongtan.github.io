@@ -2,7 +2,7 @@
 permalink: /
 title: "WELCOME"
 author_profile: true
-header: images/home_melbourne_image.jpg
+header: home_melbourne_image.jpg
 redirect_from: 
   - /about/
   - /about.html

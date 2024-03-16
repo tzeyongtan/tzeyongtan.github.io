@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/images/profile_picture.jpg"
+  avatar           : "/assets/images/profile_picture.jpeg"
   name             : "Tze Yong Tan"
   pronouns         :  
   bio              : "First-year Economics PhD student at Monash University and SoDa Labs"

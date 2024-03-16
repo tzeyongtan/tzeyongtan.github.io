@@ -11,7 +11,7 @@ I have published a number of opinion articles on topics around social issues, in
 *Published in [Astro Awani](https://www.astroawani.com/berita-malaysia/child-bullying-when-will-it-end-336611){:target="_blank"}, Asia News Today, [Focus Malaysia](https://focusmalaysia.my/child-bullying-will-it-ever-end/){:target="_blank"}, [The Star](https://www.thestar.com.my/opinion/letters/2021/12/18/use-holistic-approach-to-address-child-bullying){:target="_blank"}, and [The Sun Daily](https://thesun.my/opinion_news/tackle-child-bullying-issue-now-AB8704147){:target="_blank"}*
 
 ##Make rescuing children from poverty an urgent policy priority##
-Published in The Sun Daily and Asia News Today.
+Published in The Sun Daily and Asia News Today
 
 ##Time to take child marriage to the next level##
 Published in Astro Awani, Asia News Today and The Sun Daily.

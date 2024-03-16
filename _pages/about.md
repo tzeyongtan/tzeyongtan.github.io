@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "WELCOME"
 author_profile: true

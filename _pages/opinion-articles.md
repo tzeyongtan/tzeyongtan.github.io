@@ -34,13 +34,19 @@ I have published a number of opinion articles on topics around social issues, in
 ### NFTs – please beware of the pitfalls ###
 *Published in [Malay Mail](https://www.malaymail.com/news/what-you-think/2022/02/23/nfts-please-beware-of-the-pitfalls-jason-loh-and-tan-tze-yong/2043402){:target="_blank"}, [Business Today](https://www.businesstoday.com.my/2022/02/23/worryingly-23-of-internet-users-in-malaysia-own-nfts/){:target="_blank"}, Asia News Today and [New Straits Times](https://www.nst.com.my/opinion/letters/2022/02/774793/beware-pitfalls-trading-nfts){:target="_blank"}.*
 
+<br/><br/>
+
 # Industry #
 ### Improving cross-border e-commerce logistics urgently required ###
 *Published in [Astro Awani](https://www.astroawani.com/berita-malaysia/improving-cross-border-e-commerce-logistics-urgently-required-338815){:target="_blank"}.* 
 
+<br/><br/>
+
 # Environmental #
 ### Adopt drastic strategies to tackle river pollution ###
 *Published in [Business Today](https://www.businesstoday.com.my/2021/12/22/adopt-drastic-strategies-to-tackle-river-pollution/){:target="_blank"}, [Focus Malaysia](https://focusmalaysia.my/adopt-drastic-strategies-to-tackle-river-pollution/){:target="_blank"}, [The Sun Daily](https://www.thesundaily.my/opinion/adopt-drastic-strategies-to-tackle-river-pollution-EF8700798){:target="_blank"}, Asia News Today, [Bernama](https://www.bernama.com/en/thoughts/news.php?id=2037983){:target="_blank"} and [Astro Awani](https://www.astroawani.com/berita-malaysia/emir-research-cadang-dua-strategi-radikal-tangani-pencemaran-sungai-di-selangor-355165){:target="_blank"} (in Malay).*
+
+<br/><br/>
 
 # Foreign Relations #
 ### Global citizenship - inevitable! ###

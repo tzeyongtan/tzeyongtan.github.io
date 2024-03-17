@@ -3,8 +3,6 @@ layout: archive
 permalink: /research/
 author_profile: true
 ---
-## Current Research Project
-
 ### Cultural Distance and Open-Source Collaboration ###
 *Master's Thesis (work-in-progress)*
 

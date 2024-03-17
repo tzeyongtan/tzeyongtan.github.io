@@ -4,8 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<br/>
+## Current Research Project ##
 
-# Current Research Project #
 ### Cultural Distance and Open-Source Collaboration ###
 *Master's Thesis (work-in-progress)*
 

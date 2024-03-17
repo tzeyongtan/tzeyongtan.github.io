@@ -1,14 +1,13 @@
 ---
 layout: archive
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Here
+
 # Current Research Project #
 ### Cultural Distance and Open-Source Collaboration ###
 *Master's Thesis (work-in-progress)*
-
-<br/>
 
 ### Measuring the Economic Impact of the 2011 Great East Japan Earthquake and Tsunami Using Nighttime Lights ###
 *Honours Thesis (submitted)*

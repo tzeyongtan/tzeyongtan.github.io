@@ -1,16 +1,12 @@
 # main links links
 main:
-  navbar:
-    background: primary
-    search: true
-    right:
-      - title: "Research"
-        url: /research/    
+  - title: "Research"
+    url: /research/    
         
-      - title: "Opinion Articles"
-        url: /opinion-articles/
+  - title: "Opinion Articles"
+    url: /opinion-articles/
     
-      - title: "CV"
-        url: /files/Tze Yong_CV.pdf
+  - title: "CV"
+    url: /files/Tze Yong_CV.pdf
     
 

@@ -3,7 +3,6 @@ layout: archive
 permalink: /research/
 author_profile: true
 ---
-<br/>
 ## WORK IN PROGRESS ##
 
 ### Non-Native Politicians ###

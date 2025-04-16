@@ -15,4 +15,6 @@ I am a second-year Economics PhD candidate at [Monash University Australia](http
 
 I enjoy exploring different types of alternative data and using them in my research to answer social science questions.
 
+I am currently the co-organizer of the [Applied Young Economists Webinar (AYEW)](https://www.monash.edu/business/impact-labs/soda-labs/our-events/applied-young-economists).
+
 Get in touch: tzeyong.tan[at]monash.edu

@@ -16,8 +16,6 @@ I am involving in some work-in-progress projects.
 
 ### Heterogeneous Impacts of Environmental Conditions on Health (with Corey White) ###
 
-### Social Exclusion, Energy Poverty and Crime: International Evidence (with Rajabrata Banerjee & Vinod Mishra) ###
-
 ### Determinants of Reproducibility and Replicability (Meta Paper led by Abel Brodeur, Derek Mikola & Nikolai Cook; One of the Replicators) ###
 
 ## DORMANT ##

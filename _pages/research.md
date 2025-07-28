@@ -12,7 +12,9 @@ I am involving in some work-in-progress projects.
 
 ### Echoes of Trauma ###
 
-### Cultural Distance and Open-Source Collaboration: Evidence from GitHub (with Paul Raschky) ###
+### Historical Injustices and Government Acknowledgment ###
+
+### Open-Source Interaction on GitHub (with Paul Raschky) ###
 
 ### Heterogeneous Impacts of Environmental Conditions on Health (with Corey White) ###
 

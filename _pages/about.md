@@ -17,7 +17,7 @@ I enjoy exploring different types of alternative data and using them in my resea
 
 I am currently the co-organizer of the [Applied Young Economists Webinar (AYEW)](https://www.monash.edu/business/impact-labs/soda-labs/our-events/applied-young-economists).
 
-I work on a public resource that compiles information about conferences, workshops, and summer schools for my fellow PhD students at Monash.
+I also work on a public resource that compiles information about conferences, workshops, and summer schools for my fellow PhD friends at Monash.
 You can contribute [here](https://docs.google.com/forms/d/e/1FAIpQLScZwIXtP7y3_BekGDPwSFohFQBDjIKFXazZHbVx-CZrkT6cMQ/viewform), or view the list [here](https://docs.google.com/spreadsheets/d/1aIa619CXeUuF6S0my5h0crOngpM98udeHex9hApPXoI/edit?usp=sharing).
 
 Get in touch: tzeyong.tan[at]monash.edu

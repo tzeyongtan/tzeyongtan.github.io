@@ -12,8 +12,6 @@ I am involving in some work-in-progress projects.
 
 ### Echoes of Trauma ###
 
-### Historical Injustices and Government Acknowledgment ###
-
 ### Open-Source Interaction on GitHub (with Paul Raschky) ###
 
 ### Heterogeneous Impacts of Environmental Conditions on Health (with Corey White) ###

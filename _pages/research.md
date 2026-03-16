@@ -13,7 +13,7 @@ Featured in: [MBUS Graduate Research Impact](https://www.monash.edu/business/res
 
 ### Echoes of Trauma ###
 
-### Open-Source Interaction on GitHub (with Paul Raschky) ###
+### Open-Source Interactions on GitHub (with Paul Raschky) ###
 
 ### Heterogeneous Impacts of Environmental Conditions on Health (with Corey White) ###
 

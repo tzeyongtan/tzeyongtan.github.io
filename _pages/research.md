@@ -40,7 +40,7 @@ I am involved in several work-in-progress projects.
 <br>
 ---
 
-# RESTING PAPER
+## RESTING PAPER
 
 ### Measuring the Economic Impact of the 2011 Great East Japan Earthquake and Tsunami Using Nighttime Lights
 *Honours Thesis*

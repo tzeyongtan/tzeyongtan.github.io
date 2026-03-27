@@ -18,7 +18,7 @@ I am involved in several work-in-progress projects.
 ### Heterogeneous Impacts of Environmental Conditions on Health
 *with Corey White*
 
-### How Energy Poverty and Social Exclusion Fuel Violence? Implications for the Developing World <span style="color: gray;">[Submitted]</span>
+### How Energy Poverty and Social Exclusion Fuel Violence? Implications for the Developing World <span style="color: blue;">[Submitted]</span>
 *with Rajabrata Banerjee & Vinod Mishra* 
 
 ### Determinants of Reproducibility and Replicability

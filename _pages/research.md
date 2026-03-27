@@ -35,6 +35,9 @@ I am involved in several work-in-progress projects.
 
 ### Curfew Enforcement Duration
 
+<br>
+<br>
+<br>
 ---
 
 # RESTING PAPER

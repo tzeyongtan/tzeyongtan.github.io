@@ -4,23 +4,42 @@ permalink: /research/
 author_profile: true
 ---
 
-I am involving in some work-in-progress projects.
+I am involved in several work-in-progress projects.
 
-# WORK IN PROGRESS #
+# WORK IN PREPARATION
 
-### Non-Native Politicians ###
-Featured in: [MBUS Graduate Research Impact](https://www.monash.edu/business/research/phd-programs/graduate-research-impact/when-politics-is-personal-how-background-influences-behaviour)
+## Research Papers
 
-### Echoes of Trauma ###
+### Non-Native Politicians
 
-### Open-Source Interactions on GitHub (with Paul Raschky) ###
+### Echoes of Trauma
 
-### Heterogeneous Impacts of Environmental Conditions on Health (with Corey White) ###
+### Open-Source Interactions on GitHub
+*with Paul Raschky*
 
-### Determinants of Reproducibility and Replicability (Meta Paper led by Abel Brodeur, Derek Mikola & Nikolai Cook; One of the Replicators) ###
+### Heterogeneous Impacts of Environmental Conditions on Health
+*with Corey White*
 
-## DORMANT ##
-### Measuring the Economic Impact of the 2011 Great East Japan Earthquake and Tsunami Using Nighttime Lights ###
+### How Energy Poverty and Social Exclusion Fuel Violence? Implications for the Developing World
+*with Rajabrata Banerjee & Vinod Mishra* [Submitted]
+
+### Determinants of Reproducibility and Replicability
+*Meta Paper led by Abel Brodeur, Derek Mikola & Nikolai Cook; One of the Replicators*
+
+## Replication Study
+
+### A Comment on "Informed Enforcement: Lessons from Pollution Monitoring in China" by Sebastian Axbard and Zichen Deng
+*with Andrea La Nauze (2024)*
+
+## Datasets
+
+### U.S. Members of Congress Life Path
+
+### Curfew Enforcement Duration
+
+---
+
+# RESTING PAPER
+
+### Measuring the Economic Impact of the 2011 Great East Japan Earthquake and Tsunami Using Nighttime Lights
 *Honours Thesis*
-
-*Presented at the ['Sixth Monash Environmental Economics Workshop (MEEW) 2022' (December 7 - 8, 2022)](https://www.monash.edu/business/meew2022){:target="_blank"} organised by the Monash University Australia*

@@ -12,16 +12,14 @@ I am involved in several work-in-progress projects.
 
 ### Non-Native Politicians
 
-### Echoes of Trauma
-
 ### Open-Source Interactions on GitHub
 *with Paul Raschky*
 
 ### Heterogeneous Impacts of Environmental Conditions on Health
 *with Corey White*
 
-### How Energy Poverty and Social Exclusion Fuel Violence? Implications for the Developing World
-*with Rajabrata Banerjee & Vinod Mishra* [Submitted]
+### How Energy Poverty and Social Exclusion Fuel Violence? Implications for the Developing World <span style="color: gray;">[Submitted]</span>
+*with Rajabrata Banerjee & Vinod Mishra* 
 
 ### Determinants of Reproducibility and Replicability
 *Meta Paper led by Abel Brodeur, Derek Mikola & Nikolai Cook; One of the Replicators*
@@ -29,7 +27,7 @@ I am involved in several work-in-progress projects.
 ## Replication Study
 
 ### A Comment on "Informed Enforcement: Lessons from Pollution Monitoring in China" by Sebastian Axbard and Zichen Deng
-*with Andrea La Nauze (2024)*
+*with Andrea La Nauze (2024)* [[Paper]](https://www.econstor.eu/bitstream/10419/302050/1/I4R-DP144.pdf)
 
 ## Datasets
 

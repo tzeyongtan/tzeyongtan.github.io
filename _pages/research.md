@@ -10,7 +10,10 @@ I am involved in several work-in-progress projects.
 
 ## Research Papers
 
-### Non-Native Politicians
+### Representing New States, Remembering Old Ones: Non-Native Legislators’ Responses to Disasters in Upbringing Areas
+
+### Early Ethnic Environment and Legislative Positions on Immigration and Ethnicity
+*with Quoc-Anh Do*
 
 ### Open-Source Interactions on GitHub
 *with Paul Raschky*

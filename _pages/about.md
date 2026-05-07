@@ -18,3 +18,11 @@ I enjoy exploring different types of alternative data and using them in my resea
 I am currently the co-organizer of the [Applied Young Economists Webinar (AYEW)](https://www.monash.edu/business/impact-labs/soda-labs/our-events/applied-young-economists).
 
 Get in touch: tzeyong.tan[at]monash.edu
+
+## Updates
+
+- **August 2026:** I will be visiting LMU Munich for research with a coauthor. I will also present <span style="color:blue;"><em>"Representing New States, Remembering Old Ones: Non-Native Legislators’ Responses to Disasters in Upbringing Areas"</em></span> at the EEA-ESEM Congress 2026.
+
+- **September 2026 -- January 2027:** Research visit at the University of Warwick, UK.
+
+- **September 2026:** I will present <span style="color:blue;"><em>"Representing New States, Remembering Old Ones: Non-Native Legislators’ Responses to Disasters in Upbringing Areas"</em></span> at the European Consortium for Political Research (ECPR) General Conference 2026.

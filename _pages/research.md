@@ -12,7 +12,7 @@ I am involved in several work-in-progress projects.
 
 ### Representing New States, Remembering Old Ones: Non-Native Legislators’ Responses to Disasters in Upbringing Areas
 
-### Early Ethnic Environment and Legislative Positions on Immigration and Ethnicity
+### Early Ethnic Environment and Legislative Positions on Immigration and Civil Rights
 *with Quoc-Anh Do*
 
 ### Open-Source Interactions on GitHub

@@ -12,16 +12,13 @@ I am involved in several work-in-progress projects.
 
 ### Representing New States, Remembering Old Ones: Non-Native Legislators’ Responses to Disasters in Upbringing Areas
 
-### Early Ethnic Environment and Legislative Positions on Immigration and Civil Rights
-*with Quoc-Anh Do*
-
-### Open-Source Interactions on GitHub
+### Interactions
 *with Paul Raschky*
 
 ### Heterogeneous Impacts of Environmental Conditions on Health
 *with Corey White*
 
-### How Energy Poverty and Social Exclusion Fuel Violence? Implications for the Developing World <span style="color: blue;">[Submitted]</span>
+### How Energy Poverty and Social Exclusion Fuel Violence? Implications for the Developing World
 *with Rajabrata Banerjee & Vinod Mishra* 
 
 ### Determinants of Reproducibility and Replicability

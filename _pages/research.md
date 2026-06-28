@@ -33,8 +33,6 @@ I am involved in several work-in-progress projects.
 
 ### U.S. Members of Congress Life Path
 
-### Curfew Enforcement Duration
-
 <br>
 <br>
 <br>

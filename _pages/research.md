@@ -10,7 +10,7 @@ I am involved in several work-in-progress projects.
 
 ## Research Papers
 
-### Representing New States, Remembering Old Ones: Non-Native Legislators’ Responses to Disasters in Upbringing Areas
+### Representing Voters, Remembering Roots: Non-Native Legislators' Responses to Disasters in Their Upbringing Counties
 
 ### Interactions
 *with Paul Raschky*

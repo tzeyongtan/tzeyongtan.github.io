@@ -16,5 +16,6 @@ I am a third-year Economics PhD candidate at [Monash University Australia](https
 I enjoy exploring different types of alternative data and using them in my research to answer social science questions.
 
 I am currently the co-organizer of the [Applied Young Economists Webinar (AYEW)](https://www.monash.edu/business/impact-labs/soda-labs/our-events/applied-young-economists).
+-- Please consider submitting your work. The due date is this Friday (21.08.2026): https://docs.google.com/forms/d/e/1FAIpQLSfY1DdAnSZIyqMuGehVBRggMLBVzUZrGqf9aGZeGRVYajjIUg/viewform
 
 Get in touch: tzeyong.tan[at]monash.edu

@@ -24,13 +24,11 @@ I am involved in several work-in-progress projects.
 
 ### Energy Poverty, Social Exclusion, Violence <span style="color: #2563a6; font-size: 0.85em; font-weight: normal;">(with Rajabrata Banerjee &amp; Vinod Mishra)</span>
 
-### Determinants of Reproducibility and Replicability
-
-*Meta paper led by Abel Brodeur, Derek Mikola & Nikolai Cook; one of the replicators and data analysts*
+### Determinants of Reproducibility and Replicability <span style="color: #2563a6; font-size: 0.85em; font-weight: normal;">(Meta paper led by Abel Brodeur, Derek Mikola &amp; Nikolai Cook; one of the replicators and data analysts)</span>
 
 <h3 style="color: #2D5550;">Replication Study</h3>
 
-### A Comment on "Informed Enforcement: Lessons from Pollution Monitoring in China" by Sebastian Axbard and Zichen Deng <span style="color: #2563a6; font-size: 0.85em; font-weight: normal;">(with Andrea La Nauze, 2024)</span> [Paper](https://www.econstor.eu/bitstream/10419/302050/1/I4R-DP144.pdf)
+### A Comment on "Informed Enforcement: Lessons from Pollution Monitoring in China" by Sebastian Axbard and Zichen Deng <span style="color: #2563a6; font-size: 0.85em; font-weight: normal;">(with Andrea La Nauze, 2024)</span> [[Paper]](https://www.econstor.eu/bitstream/10419/302050/1/I4R-DP144.pdf)
 
 <h3 style="color: #2D5550;">Datasets</h3>
 

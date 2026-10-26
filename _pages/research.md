@@ -5,12 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
----
-layout: archive
-permalink: /research/
-author_profile: true
----
-
 I am involved in several work-in-progress projects.
 
 <h2 style="color: #2D5550;">WORK IN PREPARATION</h2>

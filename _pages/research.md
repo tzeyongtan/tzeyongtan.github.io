@@ -30,9 +30,7 @@ I am involved in several work-in-progress projects.
 
 <h3 style="color: #2D5550;">Replication Study</h3>
 
-### A Comment on "Informed Enforcement: Lessons from Pollution Monitoring in China" by Sebastian Axbard and Zichen Deng <span style="color: #2563a6; font-size: 0.85em; font-weight: normal;">(with Andrea La Nauze, 2024)</span>
-
-[Paper](https://www.econstor.eu/bitstream/10419/302050/1/I4R-DP144.pdf)
+### A Comment on "Informed Enforcement: Lessons from Pollution Monitoring in China" by Sebastian Axbard and Zichen Deng <span style="color: #2563a6; font-size: 0.85em; font-weight: normal;">(with Andrea La Nauze, 2024)</span> [Paper](https://www.econstor.eu/bitstream/10419/302050/1/I4R-DP144.pdf)
 
 <h3 style="color: #2D5550;">Datasets</h3>
 
@@ -40,6 +38,6 @@ I am involved in several work-in-progress projects.
 
 ---
 
-<h2 style="color: #2D5550;">WORKING PAPER</h2>
+<h2 style="color: #2D5550;">RESTING PROJECT</h2>
 
 ### Measuring the Economic Impact of the 2011 Great East Japan Earthquake and Tsunami Using Nighttime Lights <span style="color: #2563a6; font-size: 0.85em; font-weight: normal;">(Honours Thesis)</span>
